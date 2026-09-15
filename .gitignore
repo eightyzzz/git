@@ -1,0 +1,10 @@
+# Keil MDK 构建产物
+mdk/Objects/
+mdk/Listings/
+
+# Keil 个人窗口布局配置
+*.uvguix.*
+
+# Windows
+Thumbs.db
+Desktop.ini
